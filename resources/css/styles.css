@@ -24,3 +24,9 @@ a {
    color: aquamarine;
    font-size: 16px;
 }
+
+footer {
+   content: © Excursion;
+   text-align: bottom-right;
+   color: gray;
+}
